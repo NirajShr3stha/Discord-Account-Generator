@@ -1,7 +1,5 @@
 # Discord-Account-Generator
-For edu purpose only uses gmailnator and random username to gen the acc
-
-# Discord-Account-Generator
+For edu purpose only uses gmailnator and random username to gen the ac
 Proof of concept of how the creation of Discord accounts can be automated without the need to type/click buttons on browser using XPATHS.
 
 ## About
