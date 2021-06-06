@@ -1,6 +1,5 @@
 # Discord-Account-Generator
-For edu purpose only uses gmailnator and random username to gen the ac
-Proof of concept of how the creation of Discord accounts can be automated without the need to type/click buttons on browser using XPATHS.
+For edu purpose only uses gmailnator and random username to gen the acc. Proof of concept of how the creation of Discord accounts can be automated without the need to type/click buttons on browser using XPATHS.
 
 ## About
 A script that automates creating discord accounts. It shows how accounts can be created automatically without the user typing unless there is a captcha (h-Captcha just needs to be clicked) . It automatically verifies your Discord account via email for you and automatically saves login info in `login.txt` in `email:password:token` format. This is used for educational purposes only.
